@@ -1,0 +1,38 @@
+// vite.config.js
+import { defineConfig } from "file:///C:/Users/KeerthiNarayanPrasad/Desktop/marketing%20Portal/marketing20portal/node_modules/vite/dist/node/index.js";
+import vue from "file:///C:/Users/KeerthiNarayanPrasad/Desktop/marketing%20Portal/marketing20portal/node_modules/@vitejs/plugin-vue/dist/index.mjs";
+import AutoImport from "file:///C:/Users/KeerthiNarayanPrasad/Desktop/marketing%20Portal/marketing20portal/node_modules/unplugin-auto-import/dist/vite.js";
+import Components from "file:///C:/Users/KeerthiNarayanPrasad/Desktop/marketing%20Portal/marketing20portal/node_modules/unplugin-vue-components/dist/vite.mjs";
+import { ElementPlusResolver } from "file:///C:/Users/KeerthiNarayanPrasad/Desktop/marketing%20Portal/marketing20portal/node_modules/unplugin-vue-components/dist/resolvers.mjs";
+import path from "path";
+var __vite_injected_original_dirname = "C:\\Users\\KeerthiNarayanPrasad\\Desktop\\marketing Portal\\marketing20portal";
+var vite_config_default = defineConfig({
+  plugins: [
+    vue(),
+    AutoImport({
+      resolvers: [ElementPlusResolver()]
+    }),
+    Components({
+      resolvers: [ElementPlusResolver()]
+    })
+  ],
+  server: {
+    port: 8080,
+    host: true
+  },
+  optimizeDeps: {
+    include: [
+      "@fawmi/vue-google-maps",
+      "fast-deep-equal"
+    ]
+  },
+  resolve: {
+    alias: {
+      "@": path.resolve(__vite_injected_original_dirname, "./src")
+    }
+  }
+});
+export {
+  vite_config_default as default
+};
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsidml0ZS5jb25maWcuanMiXSwKICAic291cmNlc0NvbnRlbnQiOiBbImNvbnN0IF9fdml0ZV9pbmplY3RlZF9vcmlnaW5hbF9kaXJuYW1lID0gXCJDOlxcXFxVc2Vyc1xcXFxLZWVydGhpTmFyYXlhblByYXNhZFxcXFxEZXNrdG9wXFxcXG1hcmtldGluZyBQb3J0YWxcXFxcbWFya2V0aW5nMjBwb3J0YWxcIjtjb25zdCBfX3ZpdGVfaW5qZWN0ZWRfb3JpZ2luYWxfZmlsZW5hbWUgPSBcIkM6XFxcXFVzZXJzXFxcXEtlZXJ0aGlOYXJheWFuUHJhc2FkXFxcXERlc2t0b3BcXFxcbWFya2V0aW5nIFBvcnRhbFxcXFxtYXJrZXRpbmcyMHBvcnRhbFxcXFx2aXRlLmNvbmZpZy5qc1wiO2NvbnN0IF9fdml0ZV9pbmplY3RlZF9vcmlnaW5hbF9pbXBvcnRfbWV0YV91cmwgPSBcImZpbGU6Ly8vQzovVXNlcnMvS2VlcnRoaU5hcmF5YW5QcmFzYWQvRGVza3RvcC9tYXJrZXRpbmclMjBQb3J0YWwvbWFya2V0aW5nMjBwb3J0YWwvdml0ZS5jb25maWcuanNcIjtpbXBvcnQgeyBkZWZpbmVDb25maWcgfSBmcm9tICd2aXRlJ1xyXG5pbXBvcnQgdnVlIGZyb20gJ0B2aXRlanMvcGx1Z2luLXZ1ZSdcclxuaW1wb3J0IEF1dG9JbXBvcnQgZnJvbSAndW5wbHVnaW4tYXV0by1pbXBvcnQvdml0ZSdcclxuaW1wb3J0IENvbXBvbmVudHMgZnJvbSAndW5wbHVnaW4tdnVlLWNvbXBvbmVudHMvdml0ZSdcclxuaW1wb3J0IHsgRWxlbWVudFBsdXNSZXNvbHZlciB9IGZyb20gJ3VucGx1Z2luLXZ1ZS1jb21wb25lbnRzL3Jlc29sdmVycydcclxuaW1wb3J0IHBhdGggZnJvbSAncGF0aCdcclxuLy8gaHR0cHM6Ly92aXRlanMuZGV2L2NvbmZpZy9cclxuZXhwb3J0IGRlZmF1bHQgZGVmaW5lQ29uZmlnKHtcclxuICBwbHVnaW5zOiBbIHZ1ZSgpLFxyXG4gICAgQXV0b0ltcG9ydCh7XHJcbiAgICAgIHJlc29sdmVyczogW0VsZW1lbnRQbHVzUmVzb2x2ZXIoKV0sXHJcbiAgICB9KSxcclxuICAgIENvbXBvbmVudHMoe1xyXG4gICAgICByZXNvbHZlcnM6IFtFbGVtZW50UGx1c1Jlc29sdmVyKCldLFxyXG4gICAgfSksXHJcbiAgXSxcclxuICBzZXJ2ZXI6IHtcclxuICAgIHBvcnQ6IDgwODAsXHJcbiAgICBob3N0OnRydWUsXHJcbiAgfSxcclxuICBvcHRpbWl6ZURlcHM6IHtcclxuICAgIGluY2x1ZGU6IFtcclxuICAgICAgXCJAZmF3bWkvdnVlLWdvb2dsZS1tYXBzXCIsXHJcbiAgICAgIFwiZmFzdC1kZWVwLWVxdWFsXCIsXHJcbiAgICBdLFxyXG4gIH0sXHJcbiAgcmVzb2x2ZTp7XHJcbiAgICBhbGlhczp7XHJcbiAgICAgICdAJzogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwnLi9zcmMnKVxyXG4gICAgfVxyXG4gIH1cclxuXHJcbn0pXHJcbiJdLAogICJtYXBwaW5ncyI6ICI7QUFBd1osU0FBUyxvQkFBb0I7QUFDcmIsT0FBTyxTQUFTO0FBQ2hCLE9BQU8sZ0JBQWdCO0FBQ3ZCLE9BQU8sZ0JBQWdCO0FBQ3ZCLFNBQVMsMkJBQTJCO0FBQ3BDLE9BQU8sVUFBVTtBQUxqQixJQUFNLG1DQUFtQztBQU96QyxJQUFPLHNCQUFRLGFBQWE7QUFBQSxFQUMxQixTQUFTO0FBQUEsSUFBRSxJQUFJO0FBQUEsSUFDYixXQUFXO0FBQUEsTUFDVCxXQUFXLENBQUMsb0JBQW9CLENBQUM7QUFBQSxJQUNuQyxDQUFDO0FBQUEsSUFDRCxXQUFXO0FBQUEsTUFDVCxXQUFXLENBQUMsb0JBQW9CLENBQUM7QUFBQSxJQUNuQyxDQUFDO0FBQUEsRUFDSDtBQUFBLEVBQ0EsUUFBUTtBQUFBLElBQ04sTUFBTTtBQUFBLElBQ04sTUFBSztBQUFBLEVBQ1A7QUFBQSxFQUNBLGNBQWM7QUFBQSxJQUNaLFNBQVM7QUFBQSxNQUNQO0FBQUEsTUFDQTtBQUFBLElBQ0Y7QUFBQSxFQUNGO0FBQUEsRUFDQSxTQUFRO0FBQUEsSUFDTixPQUFNO0FBQUEsTUFDSixLQUFLLEtBQUssUUFBUSxrQ0FBVSxPQUFPO0FBQUEsSUFDckM7QUFBQSxFQUNGO0FBRUYsQ0FBQzsiLAogICJuYW1lcyI6IFtdCn0K

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <g data-name="Group 2778" transform="translate(-1480 -1424)">
+        <circle data-name="Ellipse 319" cx="32" cy="32" r="32" transform="translate(1480 1424)" style="fill:#0db02b"/>
+        <path data-name="Path 460" d="M96.9 223.493h-4.465v-4.309h4.444v-1.154h-4.444v-3.636h4.444v-1.154h-4.444v-3.809h4.444v-1.154h-17.93l-4.637 16.372H96.9zm-5.6-5.483h-6.542l.6-3.636h5.964zm0-4.771h-5.772l.635-3.809H91.3zm-11.466-3.809h5.156l-.635 3.809h-5.618zm-1.4 4.964h5.733l-.6 3.636H77.39zm-1.347 4.771h6.31l-.712 4.309h-6.853zm7.484 0H91.3v4.309h-7.465z" transform="translate(1416.522 1245.055)" style="fill:#fff;stroke:#fff;stroke-width:.5px"/>
+        <path data-name="Path 463" d="M385.705 32.431h11.6a3.288 3.288 0 0 0 3.29-3.29V3.284a3.288 3.288 0 0 0-3.29-3.29h-11.6a3.289 3.289 0 0 0-3.29 3.29v25.837a3.317 3.317 0 0 0 3.29 3.309zm-2.116-27.05h15.853v20.008h-15.853zm13.717 25.857h-11.6a2.143 2.143 0 0 1-2.135-2.135v-2.54h15.853v2.559a2.086 2.086 0 0 1-2.116 2.116zm-11.6-30.07h11.6a2.143 2.143 0 0 1 2.135 2.132v.924h-15.852v-.94a2.11 2.11 0 0 1 2.111-2.116z" transform="translate(1130.065 1438.28)" style="fill:#fff;stroke:#fff;stroke-width:.5px"/>
+        <path data-name="Path 464" d="M475.34 188.8h1.154v8.7h-1.154z" transform="translate(1044.394 1264.211)" style="fill:#fff;stroke:#fff;stroke-width:.5px"/>
+        <path data-name="Path 465" d="M437.38 157.99h1.154v11.1h-1.154z" transform="translate(1079.391 1292.616)" style="fill:#fff;stroke:#fff;stroke-width:.5px"/>
+        <path data-name="Path 466" d="M513.54 145.67h1.154v12.063h-1.154z" transform="translate(1009.176 1303.975)" style="fill:#fff;stroke:#fff;stroke-width:.5px"/>
+        <path data-name="Path 467" d="M551 111.66h1.154v14.717H551z" transform="translate(974.64 1335.33)" style="fill:#fff;stroke:#fff;stroke-width:.5px"/>
+        <path data-name="Path 468" d="M481.968 357.89a.962.962 0 1 0 .962.962.965.965 0 0 0-.962-.962z" transform="translate(1039.17 1108.319)" style="fill:#fff;stroke:#fff;stroke-width:.5px"/>
+        <path data-name="Path 469" d="M481 28.84h3.405v.77H481z" transform="translate(1039.176 1411.686)" style="fill:#fff;stroke:#fff;stroke-width:.5px"/>
+    </g>
+</svg>

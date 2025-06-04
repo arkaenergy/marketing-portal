@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <g data-name="Group 2857" transform="translate(-392 -1423.982)">
+        <circle data-name="Ellipse 316" cx="32" cy="32" r="32" transform="translate(392 1423.982)" style="fill:#fff"/>
+        <g data-name="Group 2851">
+            <path data-name="lightning-charge-fill (1)" d="M25.635.181a1.322 1.322 0 0 1 .6 1.533l-4.761 15.471h8.785a1.322 1.322 0 0 1 .962 2.229L10.072 41.885a1.322 1.322 0 0 1-2.226-1.3l4.761-15.474H3.822a1.322 1.322 0 0 1-.962-2.229L24.01.416a1.322 1.322 0 0 1 1.625-.238z" transform="translate(406.5 1434.983)" style="fill:none;stroke:#0db02b;stroke-width:3px"/>
+        </g>
+    </g>
+</svg>

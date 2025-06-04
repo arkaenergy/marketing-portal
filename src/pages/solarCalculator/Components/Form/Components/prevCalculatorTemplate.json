@@ -1,0 +1,135 @@
+{
+  "title": "title",
+  "description": "Description",
+  "is_default": false,
+  "sections": [
+    {
+      "id": 235,
+      "title": "title",
+      "description": "Description",
+      "created_at": "2023-12-11T08:43:52.713654Z",
+      "created_by": "crm1",
+      "sequence": 0,
+      "fields": [
+        {
+          "id": 923,
+          "label": "Pincode",
+          "description": "560095",
+          "is_required": true,
+          "question_type": "short_answer",
+          "photos_videos_required": false,
+          "options": [],
+          "additional_info": {
+            "append_img": "pinLocationImg",
+            "prepend_img": "locationImg",
+            "default_option": "",
+            "is_images_required": true
+          },
+          "created_at": "2023-12-11T08:43:52.720433Z",
+          "created_by": "crm1",
+          "sequence": 0
+        },
+        {
+          "label": "Power Supply Phase",
+          "options": [
+            {
+              "option_text": "Single Phase",
+              "sub_options": [],
+              "tab_disable": false
+            },
+            {
+              "option_text": "Three Phase",
+              "sub_options": [],
+              "tab_disable": true
+            }
+          ],
+          "max_files": 1,
+          "description": "Single Phase",
+          "is_required": true,
+          "question_type": "multiple_choice",
+          "additional_info": {
+            "default_option": "Single Phase",
+            "is_images_required": false
+          },
+          "allowed_file_type": [],
+          "photos_videos_required": false
+        },
+        {
+          "id": 925,
+          "label": "Tariff Rates",
+          "description": "Enter Tariff Rates",
+          "is_required": true,
+          "question_type": "slider",
+          "photos_videos_required": false,
+          "options": [],
+          "additional_info": {
+            "append_img": "",
+            "append_text": "/units",
+            "default_option": 7,
+            "is_images_required": true,
+            "no_style": true
+          },
+          "created_at": "2023-12-11T08:43:52.730964Z",
+          "created_by": "crm1",
+          "sequence": 2
+        },
+        {
+          "label": "Monthly Electricity Bill",
+          "options": [],
+          "max_files": 1,
+          "description": "1000",
+          "is_required": true,
+          "question_type": "number",
+          "additional_info": {
+            "append_img": "",
+
+            "prepend_img": "moneyImage",
+            "default_option": "",
+            "is_images_required": true,
+            "append_text": "INR",
+            "is_last_input": true
+          },
+          "allowed_file_type": [],
+          "photos_videos_required": false
+        },
+        {
+          "label": "Rooftop Area",
+          "options": [],
+          "max_files": 1,
+          "description": "1000",
+          "is_required": true,
+          "question_type": "short_answer",
+          "additional_info": {
+            "note": "Note - 1kW system requires ~120sq ft area",
+            "append_img": "",
+            "append_text": "sq. ft.",
+            "prepend_img": "rooftopImage",
+            "default_option": "",
+            "is_images_required": true,
+            "is_last_input": true
+          },
+          "allowed_file_type": [],
+          "photos_videos_required": false
+        },
+        {
+          "label": "Sanction Load",
+          "options": [],
+          "max_files": 1,
+          "description": "5",
+          "is_required": true,
+          "question_type": "number",
+          "additional_info": {
+            "append_img": "",
+            "append_text": "kW",
+            "prepend_img": "sanctionLoadImg",
+            "default_option": 5,
+            "is_images_required": true,
+            "is_last_input": true
+          },
+          "allowed_file_type": [],
+          "photos_videos_required": false
+        }
+      ]
+    }
+  ]
+}

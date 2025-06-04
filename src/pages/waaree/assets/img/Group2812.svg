@@ -1,0 +1,728 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1424" height="848" viewBox="0 0 1424 848">
+    <defs>
+        <filter id="2sbyoipq3a">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity=".161" result="color"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+            <feComposite operator="in" in="color"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="vca9idlukb">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity=".161" result="color-2"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+            <feComposite operator="in" in="color-2"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="zrvqkmzsyc">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity=".161" result="color-3"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+            <feComposite operator="in" in="color-3"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="azx9mbc4wd">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-4"/>
+            <feFlood flood-opacity=".161" result="color-4"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+            <feComposite operator="in" in="color-4"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="69ut9g79ke">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-5"/>
+            <feFlood flood-opacity=".161" result="color-5"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-5"/>
+            <feComposite operator="in" in="color-5"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="cn4bpi1tgf">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-6"/>
+            <feFlood flood-opacity=".161" result="color-6"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+            <feComposite operator="in" in="color-6"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="4oaz2y0zug">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-7"/>
+            <feFlood flood-opacity=".161" result="color-7"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-7"/>
+            <feComposite operator="in" in="color-7"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="jwkptw6xth">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-8"/>
+            <feFlood flood-opacity=".161" result="color-8"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-8"/>
+            <feComposite operator="in" in="color-8"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="8c2qcj7g8i">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-9"/>
+            <feFlood flood-opacity=".161" result="color-9"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-9"/>
+            <feComposite operator="in" in="color-9"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="8x3egkr32j">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-10"/>
+            <feFlood flood-opacity=".161" result="color-10"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-10"/>
+            <feComposite operator="in" in="color-10"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="okibn861bk">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-11"/>
+            <feFlood flood-opacity=".161" result="color-11"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-11"/>
+            <feComposite operator="in" in="color-11"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="2ebt370nvl">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-12"/>
+            <feFlood flood-opacity=".161" result="color-12"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-12"/>
+            <feComposite operator="in" in="color-12"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="eatkaroqlm">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-13"/>
+            <feFlood flood-opacity=".161" result="color-13"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-13"/>
+            <feComposite operator="in" in="color-13"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="bsngyfr82n">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-14"/>
+            <feFlood flood-opacity=".161" result="color-14"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-14"/>
+            <feComposite operator="in" in="color-14"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="y3q0cmdmgo">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-15"/>
+            <feFlood flood-opacity=".161" result="color-15"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-15"/>
+            <feComposite operator="in" in="color-15"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="8ricbadm0p">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-16"/>
+            <feFlood flood-opacity=".161" result="color-16"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-16"/>
+            <feComposite operator="in" in="color-16"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="ciqa5tyf4q">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-17"/>
+            <feFlood flood-opacity=".161" result="color-17"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-17"/>
+            <feComposite operator="in" in="color-17"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="83ry66wobr">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-18"/>
+            <feFlood flood-opacity=".161" result="color-18"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-18"/>
+            <feComposite operator="in" in="color-18"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="2azas6yhts">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-19"/>
+            <feFlood flood-opacity=".161" result="color-19"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-19"/>
+            <feComposite operator="in" in="color-19"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="djacxtzhit">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-20"/>
+            <feFlood flood-opacity=".161" result="color-20"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-20"/>
+            <feComposite operator="in" in="color-20"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="5iger8i2qu">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-21"/>
+            <feFlood flood-opacity=".161" result="color-21"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-21"/>
+            <feComposite operator="in" in="color-21"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="of3oe4329v">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-22"/>
+            <feFlood flood-opacity=".161" result="color-22"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-22"/>
+            <feComposite operator="in" in="color-22"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="34yb11owpw">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-23"/>
+            <feFlood flood-opacity=".161" result="color-23"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-23"/>
+            <feComposite operator="in" in="color-23"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="l422flkfxx">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-24"/>
+            <feFlood flood-opacity=".161" result="color-24"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-24"/>
+            <feComposite operator="in" in="color-24"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="1fmpz8kf3y">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-25"/>
+            <feFlood flood-opacity=".161" result="color-25"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-25"/>
+            <feComposite operator="in" in="color-25"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="16e02rse6z">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-26"/>
+            <feFlood flood-opacity=".161" result="color-26"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-26"/>
+            <feComposite operator="in" in="color-26"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="r1d0cas0jA">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-27"/>
+            <feFlood flood-opacity=".161" result="color-27"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-27"/>
+            <feComposite operator="in" in="color-27"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="mlzbp90icB">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-28"/>
+            <feFlood flood-opacity=".161" result="color-28"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-28"/>
+            <feComposite operator="in" in="color-28"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="u318n6igzC">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-29"/>
+            <feFlood flood-opacity=".161" result="color-29"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-29"/>
+            <feComposite operator="in" in="color-29"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="8grexomisD">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-30"/>
+            <feFlood flood-opacity=".161" result="color-30"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-30"/>
+            <feComposite operator="in" in="color-30"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="rvp1yunejE">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-31"/>
+            <feFlood flood-opacity=".161" result="color-31"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-31"/>
+            <feComposite operator="in" in="color-31"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="6uu8rrx9mF">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-32"/>
+            <feFlood flood-opacity=".161" result="color-32"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-32"/>
+            <feComposite operator="in" in="color-32"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="0k5p9a6liG">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-33"/>
+            <feFlood flood-opacity=".161" result="color-33"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-33"/>
+            <feComposite operator="in" in="color-33"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="z5k79jkjvH">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-34"/>
+            <feFlood flood-opacity=".161" result="color-34"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-34"/>
+            <feComposite operator="in" in="color-34"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="tflsot8czI">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-35"/>
+            <feFlood flood-opacity=".161" result="color-35"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-35"/>
+            <feComposite operator="in" in="color-35"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="xpyemnpjdJ">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-36"/>
+            <feFlood flood-opacity=".161" result="color-36"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-36"/>
+            <feComposite operator="in" in="color-36"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="sqpr9gjimK">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-37"/>
+            <feFlood flood-opacity=".161" result="color-37"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-37"/>
+            <feComposite operator="in" in="color-37"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="wsl090z38L">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-38"/>
+            <feFlood flood-opacity=".161" result="color-38"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-38"/>
+            <feComposite operator="in" in="color-38"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="pxkpyfyy3M">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-39"/>
+            <feFlood flood-opacity=".161" result="color-39"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-39"/>
+            <feComposite operator="in" in="color-39"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="enkklzx0iN">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-40"/>
+            <feFlood flood-opacity=".161" result="color-40"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-40"/>
+            <feComposite operator="in" in="color-40"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="ygvg1robiO">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-41"/>
+            <feFlood flood-opacity=".161" result="color-41"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-41"/>
+            <feComposite operator="in" in="color-41"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="it7g415gaP">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-42"/>
+            <feFlood flood-opacity=".161" result="color-42"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-42"/>
+            <feComposite operator="in" in="color-42"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="jz1h8pfcoQ">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-43"/>
+            <feFlood flood-opacity=".161" result="color-43"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-43"/>
+            <feComposite operator="in" in="color-43"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="tntxg5zdkR">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-44"/>
+            <feFlood flood-opacity=".161" result="color-44"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-44"/>
+            <feComposite operator="in" in="color-44"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="jlyuwhes6S">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-45"/>
+            <feFlood flood-opacity=".161" result="color-45"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-45"/>
+            <feComposite operator="in" in="color-45"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="f4iwzjplgT">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-46"/>
+            <feFlood flood-opacity=".161" result="color-46"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-46"/>
+            <feComposite operator="in" in="color-46"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="hy3wk57qxU">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-47"/>
+            <feFlood flood-opacity=".161" result="color-47"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-47"/>
+            <feComposite operator="in" in="color-47"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+        <filter id="hv5k00tx2V">
+            <feOffset dy="3"/>
+            <feGaussianBlur stdDeviation="3" result="blur-48"/>
+            <feFlood flood-opacity=".161" result="color-48"/>
+            <feComposite operator="out" in="SourceGraphic" in2="blur-48"/>
+            <feComposite operator="in" in="color-48"/>
+            <feComposite operator="in" in2="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 2812" transform="translate(-256 -1696)">
+        <g data-name="Rectangle 4195" transform="translate(256 1696)" style="stroke:#707070;fill:#fff">
+            <rect width="1424" height="848" rx="24" style="stroke:none"/>
+            <rect x=".5" y=".5" width="1423" height="847" rx="23.5" style="fill:none"/>
+        </g>
+        <path data-name="Rectangle 1774" transform="translate(385 2406)" style="fill:#999" d="M0 0h1256v2H0z"/>
+        <text data-name="₹500,000 ₹450,000 ₹400,000 ₹350,000 ₹300,000 ₹250,000 ₹200,000 ₹150,000 ₹50,000 ₹0.00" transform="translate(376 1756)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-89.38" y="0">₹500,000</tspan><tspan x="-87.12" y="73">₹450,000</tspan><tspan x="-88.44" y="146">₹400,000</tspan><tspan x="-87.34" y="219">₹350,000</tspan><tspan x="-88.66" y="292">₹300,000</tspan><tspan x="-88.32" y="365">₹250,000</tspan><tspan x="-89.64" y="438">₹200,000</tspan><tspan x="-84.68" y="511">₹150,000</tspan><tspan x="-76.88" y="584">₹50,000</tspan><tspan x="-53" y="657">₹0.00</tspan></text>
+        <path data-name="Rectangle 1778" transform="rotate(90 -669 1079)" style="fill:#999" d="M0 0h660v2H0z"/>
+        <path data-name="Rectangle 1791" transform="translate(385 2332)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <path data-name="Rectangle 1792" transform="translate(385 2040)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <path data-name="Rectangle 1793" transform="translate(385 1966)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <path data-name="Rectangle 1794" transform="translate(385 1895)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <path data-name="Rectangle 1795" transform="translate(385 1821)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <path data-name="Rectangle 1798" transform="translate(385 1748)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <path data-name="Rectangle 1799" transform="translate(385 2259)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <path data-name="Rectangle 1800" transform="translate(385 2187)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <path data-name="Rectangle 1801" transform="translate(385 2113)" style="fill:#999" d="M0 0h25v2H0z"/>
+        <text data-name="1" transform="translate(436 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-3.9" y="0">1</tspan></text>
+        <text data-name="2" transform="translate(483 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-5.72" y="0">2</tspan></text>
+        <text data-name="3" transform="translate(535 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-5.43" y="0">3</tspan></text>
+        <text data-name="4" transform="translate(583 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-5.62" y="0">4</tspan></text>
+        <text data-name="5" transform="translate(632 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-5.59" y="0">5</tspan></text>
+        <text data-name="6" transform="translate(682 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-5.56" y="0">6</tspan></text>
+        <text data-name="7" transform="translate(731 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-5.13" y="0">7</tspan></text>
+        <text data-name="8" transform="translate(779 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-5.83" y="0">8</tspan></text>
+        <text data-name="9" transform="translate(827 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-5.56" y="0">9</tspan></text>
+        <text data-name="10" transform="translate(880 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-10.15" y="0">10</tspan></text>
+        <text data-name="11" transform="translate(932 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-7.8" y="0">11</tspan></text>
+        <text data-name="12" transform="translate(984 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-9.62" y="0">12</tspan></text>
+        <text data-name="13" transform="translate(1039 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-9.33" y="0">13</tspan></text>
+        <text data-name="14" transform="translate(1091 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-9.52" y="0">14</tspan></text>
+        <text data-name="15" transform="translate(1147 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-9.49" y="0">15</tspan></text>
+        <text data-name="17" transform="translate(1201 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-9.03" y="0">17</tspan></text>
+        <text data-name="18" transform="translate(1253 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-9.73" y="0">18</tspan></text>
+        <text data-name="19" transform="translate(1308 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-9.46" y="0">19</tspan></text>
+        <text data-name="20" transform="translate(1360 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-11.97" y="0">20</tspan></text>
+        <text data-name="21" transform="translate(1414 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-9.62" y="0">21</tspan></text>
+        <text data-name="22" transform="translate(1466 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-11.44" y="0">22</tspan></text>
+        <text data-name="23" transform="translate(1519 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-11.15" y="0">23</tspan></text>
+        <text data-name="24" transform="translate(1573 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-11.34" y="0">24</tspan></text>
+        <g data-name="Group 2611">
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(422 2386)" style="fill:#0db02b" d="M0 0h15v20H0z"/>
+                <g style="filter:url(#2sbyoipq3a)">
+                    <path data-name="Rectangle 1777" transform="translate(422 2386)" style="fill:#fff" d="M0 0h15v20H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(470 2381)" style="fill:#0db02b" d="M0 0h15v25H0z"/>
+                <g style="filter:url(#vca9idlukb)">
+                    <path data-name="Rectangle 1777" transform="translate(470 2381)" style="fill:#fff" d="M0 0h15v25H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(520 2375)" style="fill:#0db02b" d="M0 0h16v31H0z"/>
+                <g style="filter:url(#zrvqkmzsyc)">
+                    <path data-name="Rectangle 1777" transform="translate(520 2375)" style="fill:#fff" d="M0 0h16v31H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(569 2371)" style="fill:#0db02b" d="M0 0h15v35H0z"/>
+                <g style="filter:url(#azx9mbc4wd)">
+                    <path data-name="Rectangle 1777" transform="translate(569 2371)" style="fill:#fff" d="M0 0h15v35H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(617 2363)" style="fill:#0db02b" d="M0 0h16v43H0z"/>
+                <g style="filter:url(#69ut9g79ke)">
+                    <path data-name="Rectangle 1777" transform="translate(617 2363)" style="fill:#fff" d="M0 0h16v43H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(667 2355)" style="fill:#0db02b" d="M0 0h16v51H0z"/>
+                <g style="filter:url(#cn4bpi1tgf)">
+                    <path data-name="Rectangle 1777" transform="translate(667 2355)" style="fill:#fff" d="M0 0h16v51H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(716 2346)" style="fill:#0db02b" d="M0 0h15v60H0z"/>
+                <g style="filter:url(#4oaz2y0zug)">
+                    <path data-name="Rectangle 1777" transform="translate(716 2346)" style="fill:#fff" d="M0 0h15v60H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(764 2330)" style="fill:#0db02b" d="M0 0h16v76H0z"/>
+                <g style="filter:url(#jwkptw6xth)">
+                    <path data-name="Rectangle 1777" transform="translate(764 2330)" style="fill:#fff" d="M0 0h16v76H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(813 2315)" style="fill:#0db02b" d="M0 0h15v91H0z"/>
+                <g style="filter:url(#8c2qcj7g8i)">
+                    <path data-name="Rectangle 1777" transform="translate(813 2315)" style="fill:#fff" d="M0 0h15v91H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(865 2299)" style="fill:#0db02b" d="M0 0h15v107H0z"/>
+                <g style="filter:url(#8x3egkr32j)">
+                    <path data-name="Rectangle 1777" transform="translate(865 2299)" style="fill:#fff" d="M0 0h15v107H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(917 2284)" style="fill:#0db02b" d="M0 0h16v122H0z"/>
+                <g style="filter:url(#okibn861bk)">
+                    <path data-name="Rectangle 1777" transform="translate(917 2284)" style="fill:#fff" d="M0 0h16v122H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(969 2268)" style="fill:#0db02b" d="M0 0h16v138H0z"/>
+                <g style="filter:url(#2ebt370nvl)">
+                    <path data-name="Rectangle 1777" transform="translate(969 2268)" style="fill:#fff" d="M0 0h16v138H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1025 2253)" style="fill:#0db02b" d="M0 0h16v153H0z"/>
+                <g style="filter:url(#eatkaroqlm)">
+                    <path data-name="Rectangle 1777" transform="translate(1025 2253)" style="fill:#fff" d="M0 0h16v153H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1082 2237)" style="fill:#0db02b" d="M0 0h15v169H0z"/>
+                <g style="filter:url(#bsngyfr82n)">
+                    <path data-name="Rectangle 1777" transform="translate(1082 2237)" style="fill:#fff" d="M0 0h15v169H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1132 2222)" style="fill:#0db02b" d="M0 0h15v184H0z"/>
+                <g style="filter:url(#y3q0cmdmgo)">
+                    <path data-name="Rectangle 1777" transform="translate(1132 2222)" style="fill:#fff" d="M0 0h15v184H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1186 2208)" style="fill:#0db02b" d="M0 0h16v198H0z"/>
+                <g style="filter:url(#8ricbadm0p)">
+                    <path data-name="Rectangle 1777" transform="translate(1186 2208)" style="fill:#fff" d="M0 0h16v198H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1242 2191)" style="fill:#0db02b" d="M0 0h16v215H0z"/>
+                <g style="filter:url(#ciqa5tyf4q)">
+                    <path data-name="Rectangle 1777" transform="translate(1242 2191)" style="fill:#fff" d="M0 0h16v215H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1293 2175)" style="fill:#0db02b" d="M0 0h15v231H0z"/>
+                <g style="filter:url(#83ry66wobr)">
+                    <path data-name="Rectangle 1777" transform="translate(1293 2175)" style="fill:#fff" d="M0 0h15v231H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1345 2160)" style="fill:#0db02b" d="M0 0h15v246H0z"/>
+                <g style="filter:url(#2azas6yhts)">
+                    <path data-name="Rectangle 1777" transform="translate(1345 2160)" style="fill:#fff" d="M0 0h15v246H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1399 2144)" style="fill:#0db02b" d="M0 0h16v262H0z"/>
+                <g style="filter:url(#djacxtzhit)">
+                    <path data-name="Rectangle 1777" transform="translate(1399 2144)" style="fill:#fff" d="M0 0h16v262H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1451 2129)" style="fill:#0db02b" d="M0 0h16v277H0z"/>
+                <g style="filter:url(#5iger8i2qu)">
+                    <path data-name="Rectangle 1777" transform="translate(1451 2129)" style="fill:#fff" d="M0 0h16v277H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1504 2113)" style="fill:#0db02b" d="M0 0h15v293H0z"/>
+                <g style="filter:url(#of3oe4329v)">
+                    <path data-name="Rectangle 1777" transform="translate(1504 2113)" style="fill:#fff" d="M0 0h15v293H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1558 2098)" style="fill:#0db02b" d="M0 0h15v308H0z"/>
+                <g style="filter:url(#34yb11owpw)">
+                    <path data-name="Rectangle 1777" transform="translate(1558 2098)" style="fill:#fff" d="M0 0h15v308H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1777" transform="translate(1610 2082)" style="fill:#0db02b" d="M0 0h15v324H0z"/>
+                <g style="filter:url(#l422flkfxx)">
+                    <path data-name="Rectangle 1777" transform="translate(1610 2082)" style="fill:#fff" d="M0 0h15v324H0z"/>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 2612">
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(437 2160)" style="fill:#ccc" d="M0 0h16v246H0z"/>
+                <g style="filter:url(#1fmpz8kf3y)">
+                    <path data-name="Rectangle 1802" transform="translate(437 2160)" style="fill:#fff" d="M0 0h16v246H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(485 2144)" style="fill:#ccc" d="M0 0h16v262H0z"/>
+                <g style="filter:url(#16e02rse6z)">
+                    <path data-name="Rectangle 1802" transform="translate(485 2144)" style="fill:#fff" d="M0 0h16v262H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(536 2129)" style="fill:#ccc" d="M0 0h15v277H0z"/>
+                <g style="filter:url(#r1d0cas0jA)">
+                    <path data-name="Rectangle 1802" transform="translate(536 2129)" style="fill:#fff" d="M0 0h15v277H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(584 2113)" style="fill:#ccc" d="M0 0h16v293H0z"/>
+                <g style="filter:url(#mlzbp90icB)">
+                    <path data-name="Rectangle 1802" transform="translate(584 2113)" style="fill:#fff" d="M0 0h16v293H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(633 2098)" style="fill:#ccc" d="M0 0h15v308H0z"/>
+                <g style="filter:url(#u318n6igzC)">
+                    <path data-name="Rectangle 1802" transform="translate(633 2098)" style="fill:#fff" d="M0 0h15v308H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(683 2082)" style="fill:#ccc" d="M0 0h15v324H0z"/>
+                <g style="filter:url(#8grexomisD)">
+                    <path data-name="Rectangle 1802" transform="translate(683 2082)" style="fill:#fff" d="M0 0h15v324H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(731 2067)" style="fill:#ccc" d="M0 0h16v339H0z"/>
+                <g style="filter:url(#rvp1yunejE)">
+                    <path data-name="Rectangle 1802" transform="translate(731 2067)" style="fill:#fff" d="M0 0h16v339H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(780 2052)" style="fill:#ccc" d="M0 0h15v354H0z"/>
+                <g style="filter:url(#6uu8rrx9mF)">
+                    <path data-name="Rectangle 1802" transform="translate(780 2052)" style="fill:#fff" d="M0 0h15v354H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(828 2036)" style="fill:#ccc" d="M0 0h16v370H0z"/>
+                <g style="filter:url(#0k5p9a6liG)">
+                    <path data-name="Rectangle 1802" transform="translate(828 2036)" style="fill:#fff" d="M0 0h16v370H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(880 2021)" style="fill:#ccc" d="M0 0h16v385H0z"/>
+                <g style="filter:url(#z5k79jkjvH)">
+                    <path data-name="Rectangle 1802" transform="translate(880 2021)" style="fill:#fff" d="M0 0h16v385H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(933 2005)" style="fill:#ccc" d="M0 0h15v401H0z"/>
+                <g style="filter:url(#tflsot8czI)">
+                    <path data-name="Rectangle 1802" transform="translate(933 2005)" style="fill:#fff" d="M0 0h15v401H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(985 1990)" style="fill:#ccc" d="M0 0h15v416H0z"/>
+                <g style="filter:url(#xpyemnpjdJ)">
+                    <path data-name="Rectangle 1802" transform="translate(985 1990)" style="fill:#fff" d="M0 0h15v416H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1041 1974)" style="fill:#ccc" d="M0 0h15v432H0z"/>
+                <g style="filter:url(#sqpr9gjimK)">
+                    <path data-name="Rectangle 1802" transform="translate(1041 1974)" style="fill:#fff" d="M0 0h15v432H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1097 1959)" style="fill:#ccc" d="M0 0h16v447H0z"/>
+                <g style="filter:url(#wsl090z38L)">
+                    <path data-name="Rectangle 1802" transform="translate(1097 1959)" style="fill:#fff" d="M0 0h16v447H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1147 1943)" style="fill:#ccc" d="M0 0h16v463H0z"/>
+                <g style="filter:url(#pxkpyfyy3M)">
+                    <path data-name="Rectangle 1802" transform="translate(1147 1943)" style="fill:#fff" d="M0 0h16v463H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1202 1928)" style="fill:#ccc" d="M0 0h15v478H0z"/>
+                <g style="filter:url(#enkklzx0iN)">
+                    <path data-name="Rectangle 1802" transform="translate(1202 1928)" style="fill:#fff" d="M0 0h15v478H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1258 1912)" style="fill:#ccc" d="M0 0h15v494H0z"/>
+                <g style="filter:url(#ygvg1robiO)">
+                    <path data-name="Rectangle 1802" transform="translate(1258 1912)" style="fill:#fff" d="M0 0h15v494H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1308 1897)" style="fill:#ccc" d="M0 0h16v509H0z"/>
+                <g style="filter:url(#it7g415gaP)">
+                    <path data-name="Rectangle 1802" transform="translate(1308 1897)" style="fill:#fff" d="M0 0h16v509H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1360 1881)" style="fill:#ccc" d="M0 0h16v525H0z"/>
+                <g style="filter:url(#jz1h8pfcoQ)">
+                    <path data-name="Rectangle 1802" transform="translate(1360 1881)" style="fill:#fff" d="M0 0h16v525H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1415 1866)" style="fill:#ccc" d="M0 0h15v540H0z"/>
+                <g style="filter:url(#tntxg5zdkR)">
+                    <path data-name="Rectangle 1802" transform="translate(1415 1866)" style="fill:#fff" d="M0 0h15v540H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1467 1850)" style="fill:#ccc" d="M0 0h15v556H0z"/>
+                <g style="filter:url(#jlyuwhes6S)">
+                    <path data-name="Rectangle 1802" transform="translate(1467 1850)" style="fill:#fff" d="M0 0h15v556H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1519 1835)" style="fill:#ccc" d="M0 0h16v571H0z"/>
+                <g style="filter:url(#f4iwzjplgT)">
+                    <path data-name="Rectangle 1802" transform="translate(1519 1835)" style="fill:#fff" d="M0 0h16v571H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1573 1819)" style="fill:#ccc" d="M0 0h16v587H0z"/>
+                <g style="filter:url(#hy3wk57qxU)">
+                    <path data-name="Rectangle 1802" transform="translate(1573 1819)" style="fill:#fff" d="M0 0h16v587H0z"/>
+                </g>
+            </g>
+            <g data-type="innerShadowGroup">
+                <path data-name="Rectangle 1802" transform="translate(1625 1804)" style="fill:#ccc" d="M0 0h16v602H0z"/>
+                <g style="filter:url(#hv5k00tx2V)">
+                    <path data-name="Rectangle 1802" transform="translate(1625 1804)" style="fill:#fff" d="M0 0h16v602H0z"/>
+                </g>
+            </g>
+        </g>
+        <text data-name="25" transform="translate(1625 2441)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="-11.31" y="0">25</tspan></text>
+        <text transform="translate(1611 2499)" style="font-size:24px;fill:#263342;font-family:CeraPro-Medium,Cera Pro;font-weight:500"><tspan x="-29.688" y="0">Years</tspan></text>
+        <text data-name="Estimated Utility Bill" transform="translate(968 1759)" style="font-family:CeraPro-Bold,Cera Pro;font-weight:700;font-size:24px"><tspan x="-115.68" y="0">Estimated Utility Bill</tspan></text>
+        <rect data-name="Rectangle 1803" width="48" height="31" rx="2" transform="translate(408 2472)" style="fill:#0db02b"/>
+        <rect data-name="Rectangle 3938" width="48" height="31" rx="2" transform="translate(680 2472)" style="fill:#ccc"/>
+        <text data-name="Bill With Solar" transform="translate(472 2495)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="0" y="0">Bill With Solar</tspan></text>
+        <text data-name="Bill Without Solar" transform="translate(744 2495)" style="font-family:CeraPro-Medium,Cera Pro;font-weight:500;font-size:20px"><tspan x="0" y="0">Bill Without Solar</tspan></text>
+    </g>
+</svg>

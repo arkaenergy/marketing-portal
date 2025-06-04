@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="160" viewBox="0 0 125 160">
+    <defs>
+        <clipPath id="nl0tleaewa">
+            <path data-name="Rectangle 4283" transform="translate(1720 1728)" style="fill:none" d="M0 0h125v160H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 84" transform="translate(-1720 -1728)" style="clip-path:url(#nl0tleaewa)">
+        <g data-name="Group 2790" style="opacity:.4">
+            <path data-name="Subtraction 9" d="M98 196a98.725 98.725 0 0 1-19.751-1.991 97.46 97.46 0 0 1-35.043-14.746A98.291 98.291 0 0 1 7.7 136.146a97.51 97.51 0 0 1-5.71-18.4 98.954 98.954 0 0 1 0-39.5 97.459 97.459 0 0 1 14.747-35.039A98.285 98.285 0 0 1 59.854 7.7a97.513 97.513 0 0 1 18.4-5.71 98.95 98.95 0 0 1 39.5 0 97.461 97.461 0 0 1 35.042 14.746A98.289 98.289 0 0 1 188.3 59.854a97.531 97.531 0 0 1 5.71 18.4 98.958 98.958 0 0 1 0 39.5 97.452 97.452 0 0 1-14.746 35.042 98.284 98.284 0 0 1-43.118 35.504 97.477 97.477 0 0 1-18.4 5.71A98.725 98.725 0 0 1 98 196zm0-154a56 56 0 1 0 56 56 56.063 56.063 0 0 0-56-56z" transform="translate(1724 1735)" style="fill:#0db02b;opacity:.2"/>
+        </g>
+        <circle data-name="Ellipse 343" cx="31" cy="31" r="31" transform="translate(1791 1802)" style="fill:#ebf9ee"/>
+    </g>
+</svg>

@@ -1,0 +1,56 @@
+# Node.js with Vue
+# Build a Node.js project that uses Vue.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+trigger:
+  - dev
+
+stages:
+- stage: Build
+  jobs:
+  - job: WebsiteBuild
+    displayName: Build Marketing Portal
+    pool:
+      vmImage: 'ubuntu-20.04'
+    continueOnError: false
+    steps:
+    - task: NodeTool@0
+      inputs:
+        versionSpec: '16.x'
+      displayName: 'Install Node.js'
+
+    - script: |
+        npm install
+        npm run build
+      displayName: 'NPM Build Application'
+
+    - task: PublishBuildArtifacts@1
+      inputs:
+        pathtoPublish: 'dist'
+        artifactName: 'dev'
+        publishLocation: 'Container'
+
+- stage: Deploy
+  jobs:
+  - deployment: WebsiteDeploy
+    displayName: Deploy Marketing Portal
+    pool:
+      vmImage: 'ubuntu-20.04'
+    environment: 'Solar-Prod'
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - download: current
+            artifact: dev
+          - script: |
+              az login --service-principal -u $(azureArmClientId) -p $(azureArmClientSecret) --tenant $(azureArmTenantId)
+              #echo "Switch Dorectory"
+              cd /home/vsts/work/1/
+              value=$(date +%s)
+              #upload content to container versioned folder
+              az storage blob upload-batch --account-name devmarketing -s ./dev -d '$web'/$value
+              ## target new version
+              az cdn endpoint update --resource-group PROD-SL-JE-MS-RG --profile-name cdn-marketing-dev --name marketingDev --origin-path /$value
+              az cdn endpoint purge -g PROD-SL-JE-MS-RG  -n marketingDev --profile-name cdn-marketing-dev --content-paths "/"
+            displayName: 'Upload to Azure Storage static website hosting and purge Azure CDN endpoint'

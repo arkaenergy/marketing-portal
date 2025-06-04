@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g data-name="Group 2280">
+        <path data-name="Rectangle 2409" style="fill:none" d="M0 0h24v24H0z"/>
+        <g data-name="Group 5">
+            <path data-name="Path 47" d="m106.771 253.826-1.182 12.816h18.776l-1.265-12.816z" transform="translate(-102.589 -250.826)" style="stroke-linecap:round;stroke-width:1.3px;stroke:#fff;fill:none"/>
+            <path data-name="Path 48" d="m111.42 253.969-.1 7.179-.074 5.584" transform="translate(-101.461 -250.814)" style="stroke:#fff;fill:none"/>
+            <path data-name="Path 49" d="m111.25 253.969.1 7.179.074 5.584" transform="translate(-96.03 -250.814)" style="stroke:#fff;fill:none"/>
+            <path data-name="Path 50" d="m0 0 .1 9.747.07 7.581" transform="rotate(-90 7.643 4.151)" style="stroke:#fff;fill:none"/>
+            <path data-name="Path 51" d="m0 0 .1 9.747.07 7.581" transform="rotate(-90 5.598 2.106)" style="stroke:#fff;fill:none"/>
+            <path data-name="Rectangle 856" transform="translate(10.06 18.396)" style="fill:#fff" d="M0 0h4.345v2.172H0z"/>
+            <path data-name="Rectangle 857" transform="translate(11.418 16.223)" style="fill:#fff" d="M0 0h1.629v3.259H0z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <g data-name="Group 2787" transform="translate(-392 -1424)">
+        <circle data-name="Ellipse 316" cx="32" cy="32" r="32" transform="translate(392 1424)" style="fill:#0db02b"/>
+        <g data-name="Group 2618">
+            <path data-name="Rectangle 2409" transform="translate(400 1434)" style="fill:none" d="M0 0h48v48H0z"/>
+            <path d="M2.652 0H32.7a2.661 2.661 0 0 1 2.652 2.652v14.4a2.658 2.658 0 0 1-2.589 2.65v2.3a.829.829 0 0 1-.829.831H27.6l-2.618-3.13H10.357l-2.618 3.13H3.412a.829.829 0 0 1-.823-.826v-2.3A2.658 2.658 0 0 1 0 17.063V2.652A2.661 2.661 0 0 1 2.652 0zM11 7.322h13.669a.7.7 0 0 1 .693.69v3.682a.7.7 0 0 1-.693.69H11a.693.693 0 0 1-.69-.69V8.015a.693.693 0 0 1 .69-.69z" transform="translate(406.5 1446.5)" style="stroke:#fff;stroke-width:2px;fill-rule:evenodd;fill:none"/>
+        </g>
+    </g>
+</svg>

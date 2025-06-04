@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+    <g data-name="Group 2188">
+        <g data-name="Group 166">
+            <path data-name="Rectangle 196" transform="translate(3.925 3.586)" style="fill:none" d="M0 0h14.129v14.125H0z"/>
+            <path data-name="Path 1095" d="m8.358 7.088 5.736-5.731a.316.316 0 0 0 0-.443l-.82-.826a.316.316 0 0 0-.443 0l-5.74 5.736L1.359.088a.325.325 0 0 0-.443 0L.1.906a.316.316 0 0 0 0 .443l5.727 5.739-5.733 5.731a.316.316 0 0 0 0 .443l.817.818a.317.317 0 0 0 .443 0l5.737-5.726 5.735 5.735a.316.316 0 0 0 .443 0l.818-.818a.316.316 0 0 0 0-.443z" transform="translate(3.869 3.538)" style="fill:#222"/>
+        </g>
+        <path data-name="Rectangle 526" style="fill:none" d="M0 0h21v21H0z"/>
+    </g>
+</svg>

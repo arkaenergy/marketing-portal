@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <g data-name="Group 2665" transform="translate(-392 -1424)">
+        <circle data-name="Ellipse 316" cx="32" cy="32" r="32" transform="translate(392 1424)" style="fill:#fff"/>
+        <g data-name="Group 2618">
+            <path data-name="Rectangle 2409" transform="translate(402 1434)" style="fill:none" d="M0 0h44v44H0z"/>
+            <g data-name="Group 5">
+                <path data-name="Path 47" d="m107.667 253.826-2.078 22.53H138.6l-2.216-22.53z" transform="translate(302.589 1186.352)" style="stroke-linecap:round;stroke:#0db02b;stroke-width:2.5px;fill:none"/>
+                <path data-name="Path 48" d="m111.548 253.969-.168 12.62-.131 9.816" transform="translate(308.862 1186.482)" style="stroke:#0db02b;stroke-width:2.5px;fill:none"/>
+                <path data-name="Path 49" d="m111.25 253.969.168 12.62.131 9.816" transform="translate(318.409 1186.482)" style="stroke:#0db02b;stroke-width:2.5px;fill:none"/>
+                <path data-name="Path 50" d="m0 0 .168 17.135L.3 30.462" transform="rotate(-90 932.34 523.297)" style="stroke:#0db02b;stroke-width:2.5px;fill:none"/>
+                <path data-name="Path 51" d="m0 0 .168 17.135L.3 30.462" transform="rotate(-90 928.745 519.702)" style="stroke:#0db02b;stroke-width:2.5px;fill:none"/>
+                <path data-name="Rectangle 856" transform="translate(420.589 1467.243)" style="fill:#0db02b" d="M0 0h7.638v3.819H0z"/>
+                <path data-name="Rectangle 857" transform="translate(422.976 1463.424)" style="fill:#0db02b" d="M0 0h2.864v5.728H0z"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.129" height="36.171" viewBox="0 0 40.129 36.171">
+    <g data-name="Group 2549">
+        <g data-name="image (3)">
+            <path data-name="Path 246" d="M9.664 7.331A3.331 3.331 0 1 1 6.333 4a3.331 3.331 0 0 1 3.331 3.331z" transform="translate(3.66 2.662)" style="fill:#409eff"/>
+            <path data-name="Path 247" d="M4.443 1A4.441 4.441 0 0 0 0 5.441v22.205a4.441 4.441 0 0 0 4.441 4.441h26.648a4.441 4.441 0 0 0 4.441-4.441V5.441A4.441 4.441 0 0 0 31.089 1H4.443zm26.646 2.221a2.221 2.221 0 0 1 2.221 2.22v14.433l-8.387-4.323a1.11 1.11 0 0 0-1.281.207L15.4 24l-5.9-3.939a1.11 1.11 0 0 0-1.4.138l-5.877 5.227V5.441a2.221 2.221 0 0 1 2.22-2.22z" transform="translate(-.002 -1)" style="fill:#409eff"/>
+        </g>
+        <g data-name="Ellipse 246" transform="translate(26.252 22.294)" style="fill:#fff;stroke:#222;stroke-width:.5px">
+            <circle cx="6.939" cy="6.939" r="6.939" style="stroke:none"/>
+            <circle cx="6.939" cy="6.939" r="6.689" style="fill:none"/>
+        </g>
+        <path d="m8.644 7.57 4.385 3.062a.658.658 0 0 1 .024 1.094l-4.372 3.02a.651.651 0 0 1-.417.151.658.658 0 0 1-.663-.658V8.107a.655.655 0 0 1 1.043-.537z" transform="translate(23.626 18.257)" style="fill:#409eff"/>
+    </g>
+</svg>

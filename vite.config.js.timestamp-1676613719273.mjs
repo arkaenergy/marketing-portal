@@ -1,0 +1,38 @@
+// vite.config.js
+import { defineConfig } from "file:///C:/Users/agank/OneDrive/Desktop/SolarLabs/MarketingPortal_MAIN/marketing20portal/node_modules/vite/dist/node/index.js";
+import vue from "file:///C:/Users/agank/OneDrive/Desktop/SolarLabs/MarketingPortal_MAIN/marketing20portal/node_modules/@vitejs/plugin-vue/dist/index.mjs";
+import AutoImport from "file:///C:/Users/agank/OneDrive/Desktop/SolarLabs/MarketingPortal_MAIN/marketing20portal/node_modules/unplugin-auto-import/dist/vite.js";
+import Components from "file:///C:/Users/agank/OneDrive/Desktop/SolarLabs/MarketingPortal_MAIN/marketing20portal/node_modules/unplugin-vue-components/dist/vite.mjs";
+import { ElementPlusResolver } from "file:///C:/Users/agank/OneDrive/Desktop/SolarLabs/MarketingPortal_MAIN/marketing20portal/node_modules/unplugin-vue-components/dist/resolvers.mjs";
+import path from "path";
+var __vite_injected_original_dirname = "C:\\Users\\agank\\OneDrive\\Desktop\\SolarLabs\\MarketingPortal_MAIN\\marketing20portal";
+var vite_config_default = defineConfig({
+  plugins: [
+    vue(),
+    AutoImport({
+      resolvers: [ElementPlusResolver()]
+    }),
+    Components({
+      resolvers: [ElementPlusResolver()]
+    })
+  ],
+  server: {
+    port: 8080,
+    host: true
+  },
+  optimizeDeps: {
+    include: [
+      "@fawmi/vue-google-maps",
+      "fast-deep-equal"
+    ]
+  },
+  resolve: {
+    alias: {
+      "@": path.resolve(__vite_injected_original_dirname, "./src")
+    }
+  }
+});
+export {
+  vite_config_default as default
+};
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsidml0ZS5jb25maWcuanMiXSwKICAic291cmNlc0NvbnRlbnQiOiBbImNvbnN0IF9fdml0ZV9pbmplY3RlZF9vcmlnaW5hbF9kaXJuYW1lID0gXCJDOlxcXFxVc2Vyc1xcXFxhZ2Fua1xcXFxPbmVEcml2ZVxcXFxEZXNrdG9wXFxcXFNvbGFyTGFic1xcXFxNYXJrZXRpbmdQb3J0YWxfTUFJTlxcXFxtYXJrZXRpbmcyMHBvcnRhbFwiO2NvbnN0IF9fdml0ZV9pbmplY3RlZF9vcmlnaW5hbF9maWxlbmFtZSA9IFwiQzpcXFxcVXNlcnNcXFxcYWdhbmtcXFxcT25lRHJpdmVcXFxcRGVza3RvcFxcXFxTb2xhckxhYnNcXFxcTWFya2V0aW5nUG9ydGFsX01BSU5cXFxcbWFya2V0aW5nMjBwb3J0YWxcXFxcdml0ZS5jb25maWcuanNcIjtjb25zdCBfX3ZpdGVfaW5qZWN0ZWRfb3JpZ2luYWxfaW1wb3J0X21ldGFfdXJsID0gXCJmaWxlOi8vL0M6L1VzZXJzL2FnYW5rL09uZURyaXZlL0Rlc2t0b3AvU29sYXJMYWJzL01hcmtldGluZ1BvcnRhbF9NQUlOL21hcmtldGluZzIwcG9ydGFsL3ZpdGUuY29uZmlnLmpzXCI7aW1wb3J0IHsgZGVmaW5lQ29uZmlnIH0gZnJvbSAndml0ZSdcclxuaW1wb3J0IHZ1ZSBmcm9tICdAdml0ZWpzL3BsdWdpbi12dWUnXHJcbmltcG9ydCBBdXRvSW1wb3J0IGZyb20gJ3VucGx1Z2luLWF1dG8taW1wb3J0L3ZpdGUnXHJcbmltcG9ydCBDb21wb25lbnRzIGZyb20gJ3VucGx1Z2luLXZ1ZS1jb21wb25lbnRzL3ZpdGUnXHJcbmltcG9ydCB7IEVsZW1lbnRQbHVzUmVzb2x2ZXIgfSBmcm9tICd1bnBsdWdpbi12dWUtY29tcG9uZW50cy9yZXNvbHZlcnMnXHJcbmltcG9ydCBwYXRoIGZyb20gJ3BhdGgnXHJcbi8vIGh0dHBzOi8vdml0ZWpzLmRldi9jb25maWcvXHJcbmV4cG9ydCBkZWZhdWx0IGRlZmluZUNvbmZpZyh7XHJcbiAgcGx1Z2luczogWyB2dWUoKSxcclxuICAgIEF1dG9JbXBvcnQoe1xyXG4gICAgICByZXNvbHZlcnM6IFtFbGVtZW50UGx1c1Jlc29sdmVyKCldLFxyXG4gICAgfSksXHJcbiAgICBDb21wb25lbnRzKHtcclxuICAgICAgcmVzb2x2ZXJzOiBbRWxlbWVudFBsdXNSZXNvbHZlcigpXSxcclxuICAgIH0pLFxyXG4gIF0sXHJcbiAgc2VydmVyOiB7XHJcbiAgICBwb3J0OiA4MDgwLFxyXG4gICAgaG9zdDp0cnVlLFxyXG4gIH0sXHJcbiAgb3B0aW1pemVEZXBzOiB7XHJcbiAgICBpbmNsdWRlOiBbXHJcbiAgICAgIFwiQGZhd21pL3Z1ZS1nb29nbGUtbWFwc1wiLFxyXG4gICAgICBcImZhc3QtZGVlcC1lcXVhbFwiLFxyXG4gICAgXSxcclxuICB9LFxyXG4gIHJlc29sdmU6e1xyXG4gICAgYWxpYXM6e1xyXG4gICAgICAnQCc6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsJy4vc3JjJylcclxuICAgIH1cclxuICB9XHJcblxyXG59KVxyXG4iXSwKICAibWFwcGluZ3MiOiAiO0FBQWtiLFNBQVMsb0JBQW9CO0FBQy9jLE9BQU8sU0FBUztBQUNoQixPQUFPLGdCQUFnQjtBQUN2QixPQUFPLGdCQUFnQjtBQUN2QixTQUFTLDJCQUEyQjtBQUNwQyxPQUFPLFVBQVU7QUFMakIsSUFBTSxtQ0FBbUM7QUFPekMsSUFBTyxzQkFBUSxhQUFhO0FBQUEsRUFDMUIsU0FBUztBQUFBLElBQUUsSUFBSTtBQUFBLElBQ2IsV0FBVztBQUFBLE1BQ1QsV0FBVyxDQUFDLG9CQUFvQixDQUFDO0FBQUEsSUFDbkMsQ0FBQztBQUFBLElBQ0QsV0FBVztBQUFBLE1BQ1QsV0FBVyxDQUFDLG9CQUFvQixDQUFDO0FBQUEsSUFDbkMsQ0FBQztBQUFBLEVBQ0g7QUFBQSxFQUNBLFFBQVE7QUFBQSxJQUNOLE1BQU07QUFBQSxJQUNOLE1BQUs7QUFBQSxFQUNQO0FBQUEsRUFDQSxjQUFjO0FBQUEsSUFDWixTQUFTO0FBQUEsTUFDUDtBQUFBLE1BQ0E7QUFBQSxJQUNGO0FBQUEsRUFDRjtBQUFBLEVBQ0EsU0FBUTtBQUFBLElBQ04sT0FBTTtBQUFBLE1BQ0osS0FBSyxLQUFLLFFBQVEsa0NBQVUsT0FBTztBQUFBLElBQ3JDO0FBQUEsRUFDRjtBQUVGLENBQUM7IiwKICAibmFtZXMiOiBbXQp9Cg==

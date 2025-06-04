@@ -1,0 +1,14 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "ril-marketingportal": {
+      "appLocation": ".",
+      "outputLocation": "dist",
+      "appBuildCommand": "npm run build",
+      "run": "npm run serve",
+      "appDevserverUrl": "http://localhost:8080",
+      "appName": "ril-marketingportal",
+      "resourceGroup": "PROD-SL-JE-MS-RG"
+    }
+  }
+}
