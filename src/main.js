@@ -28,7 +28,7 @@ export default class Main {
         this.app.use(VueGoogleMaps, {
             load: {
                 key: GOOGLE_API_KEY,
-                libraries: 'places', // required if using the Autocomplete plugin
+                libraries: 'places', 
             },
         }).mount('#app');
 
