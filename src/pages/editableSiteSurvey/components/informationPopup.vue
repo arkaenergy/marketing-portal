@@ -1,16 +1,6 @@
 <template>
     <div class="headerSection">
-        <img
-            src="../assets/dropdown-arrow-down.png"
-            :class="['toggle', toggle ? '' : 'toggleInvert']"
-            @click="toggleFunc()"
-        />
-        <p v-if="currentSection && currentSection.title" style="font-weight: 600;">
-            {{ currentSection.title }}
-        </p>
-        <p v-if="currentSection && currentSection.description" class="description">
-            {{ currentSection.description }}
-        </p>
+       
     </div>
 </template>
 <script>
