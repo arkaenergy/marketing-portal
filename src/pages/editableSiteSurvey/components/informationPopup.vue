@@ -1,15 +1,18 @@
 <template>
-    <div class="card-cont">
-        <div class="info-section">
-            <!-- <img src="../assets/dropdown-arrow-down.png" alt="" :class="['toggle', toggle ? '' : 'toggleInvert']"  @click="toggleFunc()"  /> -->
-            <img src="../assets/dropdown-arrow-down.png" class="toggle" @click="toggleFunc()" :class="['toggle', toggle ? '' : 'toggleInvert']" />
-            <p v-if="currentSection && currentSection.title" style="font-weight: 600;">{{currentSection.title}}</p>
-            <p v-if="currentSection && currentSection.description" class="description">
-                {{ currentSection.description }}</p> 
-         </div>
+    <div class="headerSection">
+        <img
+            src="../assets/dropdown-arrow-down.png"
+            :class="['toggle', toggle ? '' : 'toggleInvert']"
+            @click="toggleFunc()"
+        />
+        <p v-if="currentSection && currentSection.title" style="font-weight: 600;">
+            {{ currentSection.title }}
+        </p>
+        <p v-if="currentSection && currentSection.description" class="description">
+            {{ currentSection.description }}
+        </p>
     </div>
 </template>
-
 <script>
 
 export default ({
