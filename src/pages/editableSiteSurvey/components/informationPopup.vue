@@ -25,10 +25,7 @@ export default ({
         
     },
     methods: {
-        toggleFunc() {
-            this.toggle = !this.toggle;
-            this.$emit('toggleClicked')
-        },
+       
     }
 })
 </script>
