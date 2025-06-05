@@ -7,22 +7,8 @@
 
 export default ({
     name: "informationPopup",
-    components: {
-    
-    },
-    props: {
-        currentSection: {
-            type: Object
-        },
-    },
-    data() {
-        return {
-            toggle: true,
-        }
-
-    },
-   
-})
+  
+ })
 </script>
 
 <style scoped>
