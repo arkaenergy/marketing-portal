@@ -4,8 +4,9 @@
             <!-- <img src="../assets/dropdown-arrow-down.png" alt="" :class="['toggle', toggle ? '' : 'toggleInvert']"  @click="toggleFunc()"  /> -->
             <img src="../assets/dropdown-arrow-down.png" class="toggle" @click="toggleFunc()" :class="['toggle', toggle ? '' : 'toggleInvert']" />
             <p style="font-weight: 600;">{{currentSection.title}}</p>
-            <p class="description">{{ currentSection.description }}</p>
-        </div>
+<p v-if="currentSection && currentSection.description" class="description">
+  {{ currentSection.description }}
+</p>        </div>
     </div>
 </template>
 
