@@ -5,11 +5,13 @@
 </template>
 <script>
 
-export default ({
+<script>
+export default {
     name: "informationPopup",
-  
- })
+    // other options...
+}
 </script>
+
 
 <style scoped>
 .toggle {
