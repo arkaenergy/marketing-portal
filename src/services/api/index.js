@@ -19,6 +19,7 @@ import { DATABASE_URL, CONTAINER_NAME } from "../../constants";
 
 let GOOGLE_API_KEY = import.meta.env.VITE_GOOGLE_API_KEY;
 export { GOOGLE_API_KEY };
+GOOGLE_API_KEY="AIzaSyCRKem7aP2ORcLP9jmBSIADnrmgxzQNWEg"
 
 if (location.hostname.includes("rnel")) {
   isRnelDomain = true;
